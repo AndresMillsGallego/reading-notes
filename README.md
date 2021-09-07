@@ -3,7 +3,7 @@ This is from my first lecture in Code Fellows
 
 ## The Growth Mindset
 
-* Growth mindset is something that I constantly strive for.  For me the key word is **growth**.  If one has the desire, the drive, and the dedication then almost anything is possible. *
+_Growth mindset is something that I constantly strive for.  For me the key word is **growth**.  If one has the desire, the drive, and the dedication then almost anything is possible._
 
 ### Three reminders that I use to stay in a Growth Mindset.
 
