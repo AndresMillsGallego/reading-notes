@@ -17,7 +17,8 @@ So what is Markdown exactly?  It is a simple tool that can be used to make plain
 
 The syntax is fairly simple and easy to remember. 
 
-If you want to use italics simply place a * or a _ at the start of your text
+If you want to use *italics* simply place a * or a _ at the start of your text
+
 If you want to make something **BOLD**, just start the text with a ** or __
 
 There is a lot more you can do with Markdown, here is a [Link](https://www.markdownguide.org/basic-syntax/#links) to help you get started
