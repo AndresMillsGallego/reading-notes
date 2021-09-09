@@ -16,6 +16,7 @@ Here are a few things to look for when choosing one:
 * It has a variety of themes
    > You are going to be spending a lot of time looking at your text editor.  
    Having a variety of themes could make it easier on the eyes and prevent unecessary fatigue. 
+   
 
 
 
