@@ -17,7 +17,34 @@ Here are a few things to look for when choosing one:
    > You are going to be spending a lot of time looking at your text editor.  
    Having a variety of themes could make it easier on the eyes and prevent unecessary fatigue. 
    
-## The Command Prompt
+Another thing to note, is that most (if not all) computers will come with their own text editor already built in to the machine!  
+If that is the case, then why is there a need to search out your own?
+
+Most of the basic text editors that come with your pc/laptop will be very bare bones 
+and won't have many (if any) of the above features.  
+Since there are so many excellent text editors out there (many of which are free) 
+it only makes sense to try some of them out to see what works for you. 
+
+## The Command Line
+
+The command line is one way that the user (you) can interact with your system.  
+It is a text based interface and is also called the Terminal.  It will have a prompt, which is where you can enter
+your commands.  
+
+There are a lot commands that can be used with the terminal, 
+Here is a cheat sheet for some of them. 
+
+|-----------|---------------------------|
+|     pwd   | Print Working Directory   |    > Shows you which directory you are in
+|-----------|---------------------------|
+|     ls    |          List             |    > Shows a list of what is in your current directory
+|-----------|---------------------------|
+|     cd    |    Change  Directory      |    > Changes to a different directory, or take you back to the home directory if no argument is used
+|-----------|---------------------------|
+|   mkdir   |   Make a New Directory    |    > Command used to make a new directory
+|-----------|---------------------------|
+
+
 
 
 
