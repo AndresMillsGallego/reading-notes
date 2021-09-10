@@ -47,6 +47,9 @@ There are of course many, many more commands you will learn but this is a good p
 Click on [This](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/) to see a few more commands for your terminal. 
 
 
+~~this is a mistake~~
+
+
 
 
 
