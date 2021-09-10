@@ -35,13 +35,21 @@ There are a lot commands that can be used with the terminal,
 Here is a cheat sheet for some of them. 
 
 |-----------|---------------------------|
+
 |     pwd   | Print Working Directory   |    > Shows you which directory you are in
+
 |-----------|---------------------------|
+
 |     ls    |          List             |    > Shows a list of what is in your current directory
+
 |-----------|---------------------------|
+
 |     cd    |    Change  Directory      |    > Changes to a different directory, or take you back to the home directory if no argument is used
+
 |-----------|---------------------------|
+
 |   mkdir   |   Make a New Directory    |    > Command used to make a new directory
+
 |-----------|---------------------------|
 
 
