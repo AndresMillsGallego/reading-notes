@@ -2,7 +2,7 @@
 
 First off, what is a text editor exactly?
 
-A text editor is pretty much exactly what it sounds like! :)
+A text editor is pretty much exactly what it sounds like! 😄
 It is a software tool that you can download, or use online to write and edit your code.  
 
 Choosing the right one may seem daunting, but its like choosing the **"best"** pizza place...the answer will be different for everyone! 
@@ -41,6 +41,13 @@ Here is a cheat sheet for some of them.
 |     ls    |          List             | Shows a list of what is in your current directory.|
 |     cd    |    Change  Directory      | Changes to a different directory.            |
 |   mkdir   |   Make  New Directory    | Make a brand new directory            |
+
+There are of course many, many more commands you will learn but this is a good place to start.  
+
+Click on [This](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/) to see a few more commands for your terminal. 
+
+
+
 
 
 
