@@ -36,7 +36,7 @@ Here is a cheat sheet for some of them.
 
 
 |  Command  |         Meaning           | What It Does|
-|:---       |         :----:            |        :--- |
+|:---:       |         :----:            |        :---: |
 | pwd       | Prints Working Directory  | Shows you what directory you are currently in.| 
 |     ls    |          List             | Shows a list of what is in your current directory.|
 |     cd    |    Change  Directory      | Changes to a different directory.            |
