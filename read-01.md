@@ -23,6 +23,8 @@ If you want to make something **BOLD**, just wrap the text with a ** or __
 
 There is a lot more you can do with Markdown, here is a [Link](https://www.markdownguide.org/basic-syntax/#links) to help you get started
 
+Click [HERE](README.md) to go back to the home page.
+
 
 
 
