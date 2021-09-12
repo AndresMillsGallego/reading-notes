@@ -1,5 +1,11 @@
 # reading-notes
-This is from my first lecture in Code Fellows
+**Below you will find a table of contents with links to all my reading notes.**
+
+|Table of Contents                          |
+| :---:|
+| [Growth Mindset](README.md)|
+| [Read-01](read-01.md)|
+| [The Coders Computer](TheCodersComputer.md)|
 
 ## The Growth Mindset
 
