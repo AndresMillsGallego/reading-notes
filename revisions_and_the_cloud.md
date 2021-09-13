@@ -24,19 +24,20 @@ Git uses mostly local operations since most of what you will need can be found o
 This is also the most efficient method since there is no need to draw from an outside source or even an internet connection! 
 
 Git tracks every single change made to a file or directory
-| git status|
+
+| git status        |
 |:----:        |
 |This is a great command to check the status of a file you are working on. |
 
 After checking the status of a file that we are working on, we use the following commands to sync or *push* our changes to the remote repository. 
 
-    *Add
+    1. Add
         * __git add file_name.md__  (Note, replace "file_name.md" with the file you are adding)
    
-    *Commit
+    2. Commit
         * __git commit -m "any comment"__ (you can add any comment or note about the change you made)
    
-    *Push
+    3. Push
         * __git push origin main__ (This final command pushes the changed file to the remote repo)
 
 At any time in this process you can utilize the *__git status__* command to check where you are at.  
