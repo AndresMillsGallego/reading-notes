@@ -27,6 +27,8 @@ it only makes sense to try some of them out to see what works for you.
 
 ## The Command Line
 
+![Command Line](command_line.png)
+
 The command line is one way that the user (you) can interact with your system.  
 It is a text based interface and is also called the Terminal.  It will have a prompt, which is where you can enter
 your commands.  
