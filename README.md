@@ -6,6 +6,7 @@
 | [Growth Mindset](README.md)|
 | [Read-01](read-01.md)|
 | [The Coders Computer](TheCodersComputer.md)|
+| [Revisions and the Cloud](revisions_and_the_cloud.md)
 
 ## The Growth Mindset
 
