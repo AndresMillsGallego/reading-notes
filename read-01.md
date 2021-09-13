@@ -9,7 +9,7 @@ So what is Markdown exactly?  It is a simple tool that can be used to make plain
 
 ## Why Use Markdown?
 
-* Its a great place to start due to how user friendly it is
+* Its a great place to start when learning to code due to how user friendly it is
 * It can make your document not only easier to read, but have emphasis and emotion where it is needed
 * Its a relatively quick way to get an idea or a piece of information down and shared on your page
 
