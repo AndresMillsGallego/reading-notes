@@ -3,7 +3,7 @@
 _Growth mindset is something that I constantly strive for.  For me the key word is **growth**.  If one has the desire, the drive, and the dedication then almost anything is possible._
 
 It is very easy to fall into a fixed mindset as it is often the easier, more comfortable place to be.  
-All one has to do is look at human history to see that almost anything is possible. I believe that talent exists, but even that can only take us so far.  We have to be open minded, open to change and not only willing to fail...but we have to embrace that uncomfortable feeling as that is where we learn and how we build.  
+All one has to do is look at human history to see that almost anything is possible. I believe that talent exists, but even that can only take us so far.  We have to be open minded, open to change and welcome a challenge.  It is in that challenge and willingness to fail we learn the most and how we build strong foundations.  
 
 ## Three reminders that I use to stay in a Growth Mindset.
 
