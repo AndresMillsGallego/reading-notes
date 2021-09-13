@@ -23,24 +23,30 @@ Each time you save a file Git stores a reference to that change.  If no change i
 Git uses mostly local operations since most of what you will need can be found on your system.  
 This is also the most efficient method since there is no need to draw from an outside source or even an internet connection! 
 
-Git tracks every single change made to a file or directory
+Git tracks every single change made to a file or directory.  The command **git status** is exremely useful to check the status of the file you are working on. 
 
-| **git status**        |
-|:----:        |
-|*This is a great command to check the status of a file you are working on.* |
+Files in Git are kept in 3 stages.
+    
+    * Committed, the data is stored locally
+    * Modified, the file has been changed nut not comitted to the database
+    * Staged, flags a changed file to be committed
+
 
 
 After checking the status of a file that we are working on, we use the following commands to sync or *push* our changes to the remote repository. 
 
-1. Add
-__git add filename.md__  
-Replace "filename.md" with the file you are adding
-2. Commit
-__git commit -m "any comment"__  
-You can add any comment or note about the change you made
-3. Push
-__git push origin main__ 
-This final command pushes the changed file to the remote repo
+* Add
+
+    __git add filename.md__  
+    (Replace "filename.md" with the file you are adding)
+* Commit
+
+    __git commit -m "any comment"__  
+    (You can add any comment or note about the change you made)
+* Push
+
+    __git push origin main__ 
+    (This final command pushes the changed file to the remote repo)
 
 At any time in this process you can utilize the *__git status__* command to check where you are at.  
 
