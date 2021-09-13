@@ -11,6 +11,6 @@ with Coding 102.
 | :---:|
 | [Home](README.md)|
 | [Growth Mindset](GrowthMindset.md)|
-| [Read-01](read-01.md)|
+| [Learning About Markdown](read-01.md)|
 | [The Coders Computer](TheCodersComputer.md)|
 | [Revisions and the Cloud](revisions_and_the_cloud.md)
