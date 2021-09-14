@@ -13,4 +13,5 @@ with Coding 102.
 | [Growth Mindset](GrowthMindset.md)|
 | [Learning About Markdown](read-01.md)|
 | [The Coders Computer](TheCodersComputer.md)|
-| [Revisions and the Cloud](revisions_and_the_cloud.md)
+| [Revisions and the Cloud](revisions_and_the_cloud.md)|
+| [Wireframe and HTML](wireframe_html.md)|
