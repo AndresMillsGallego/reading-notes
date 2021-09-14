@@ -3,7 +3,7 @@
 *__What is Wireframing?__*
 
 Wireframing is a practice that UX designers use to plan out their their site, app or product.
-Its similar to a story board, rough draft, etc etc. Its a way to get ideas down on paper and a basic layout going.
+It is similar to a story board, rough draft, etc etc. It is a way to get ideas down on paper and a basic layout going.
 
 This proces can be done on a laptop or even a pen and paper!  While there are many great products out there, it can be a good idea to start things with a marker or a pen and a pad of paper or white board.
 Remember that this process is about getting ideas down quick.  Detail and fine design can come later. Using paper and pen make it easy to fix mistakes without losing too much time.
@@ -89,31 +89,12 @@ Depending on where I want to place the emphasis.  The "strong" element is placed
 |title/title | This element sets the title of your document/page.|
 | body/body | This element is what contains everything you *do* want to appear in your content.|
 
+
+Please note that all of these elements need opening and closing tags as well.  
+
 There are a lot of other elements and things you can do with HTML. 
 
 Check out this [Link](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) to dive further in to the world of HTML
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Click [HERE](README.md) to go back to the home page.
