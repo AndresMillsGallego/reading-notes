@@ -22,11 +22,11 @@ We use CSS to add style to our web pages.  That includes using different colors,
 
 There are also different ways to implement our CSS code.  Here are the 3 main ways.
 
-    1. External CSS - This is CSS code that is written and stored in a separate file.  This file is linked to yur html file and must be saved with the .css extension. 
+1. External CSS - This is CSS code that is written and stored in a separate file.  This file is linked to yur html file and must be saved with the .css extension. 
 
-    2. Internal CSS - This can be used in the html file using the <style> element inside the head section.  
+2. Internal CSS - This can be used in the html file using the style element inside the head section.  
 
-    3. Inline CSS - This is also used in the html document and can be used to stlye a single element.  Add the style attribute to the desired element.  
+3. Inline CSS - This is also used in the html document and can be used to stlye a single element.  Add the style attribute to the desired element.  
 
 You can even use all 3 at once if you like! Its worth noting that any inline CSS will have the highest priority when executing followed by external/internal, then lastly any browser defaults.  
 
