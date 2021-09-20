@@ -24,13 +24,14 @@ Javascript uses variables as containers that hold values or data.  There are 3 w
 
 The **var** keyword is one that isn't really used anymore, but its good to know since you will come across it.  
 The **let** keyword declares a variable that can be changed, or reassigned at any point
+
 The **const** keyword is used to declare a variable that will remain constant and will not change.  
 
 After declaring, or creating, the variable, you can give it a value.  Foor this we use the = sign which assigns a value to a variable.  
 After we assign a value to a variable we can then change it later using the = sign again.  
 
-    > let theBoss = "My supervisor"
-      theBoss = "Bruce Springsteen"
+    let theBoss = "My supervisor"
+    theBoss = "Bruce Springsteen"
 
 You can see that we declared the variable first, then assigned a value, then changed the value.  
 Its even possible to declare a variable with no value at all!  This is done when the value is not yet known, or needs to be calculated.
@@ -41,8 +42,8 @@ So what do we put in as our values for these newly declared variables?
 
 Here are some of the data types that we can use as values for our variables.
 
-| Variable | What It Does |
-| :---: | :---:
+| **Variable** | **What It Does** |
+| :--- | ---:
 |String | Letters or numbers.  Use quotation marks to wrap your text |
 |Object | This can be anything!  Everything in JS is considered an object |
 |Boolean | This is a value of true, or false.  These values don't need any quotation marks|
@@ -64,8 +65,8 @@ Not so fast, we already use the = sign to assign our values to our variables rem
 
 For equals to we use == or ===.
 
-== converts the variable to the same data type
-=== keeps the data types the same
+== converts the variable to the same data type when comparing
+=== keeps the data types in their original state when comparing
 
 If we want to express *not* equal to, then we use either ! or !==
 
