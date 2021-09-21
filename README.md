@@ -16,4 +16,5 @@ with Coding 102.
 | [Revisions and the Cloud](revisions_and_the_cloud.md)|
 | [Wireframe and HTML](wireframe_html.md)|
 | [Designing Web Pages with CSS](design_css.md)|
-| [Dynamic Web Pages with Javascript](dynamic_javascript)|
+| [Dynamic Web Pages with Javascript](dynamic_javascript.md)|
+| [Programming with Javascript](prog_javascript.md)|
