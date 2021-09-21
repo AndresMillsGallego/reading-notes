@@ -52,7 +52,7 @@ This is done with the = sign (as we've mentiond in past notes).
 
 **Arithmatic Operators**
 
-    -Arithmatic operators are used to perform arithmatic on numbers (and sometimes strings as well)
+- Arithmatic operators are used to perform arithmatic on numbers (and sometimes strings as well)
 
 Here is a table of some of them and what they do:
 
