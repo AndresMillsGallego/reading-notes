@@ -1,6 +1,4 @@
-# reading-notes
-
-**Welcome to my Coding 102 site**
+# Code 102 Reading Notes
 
 This is a collection of my notes, ideas, thoughts and the different things that I have learned during my time
 with Coding 102.
@@ -9,7 +7,7 @@ with Coding 102.
 
 **Below you will find a table of contents with links to all my reading notes.**
 
-|Table of Contents                          |
+|Table of Contents 102                         |              
 | :---:|
 | [Home](README.md)|
 | [Growth Mindset](GrowthMindset.md)|
@@ -21,3 +19,29 @@ with Coding 102.
 | [Dynamic Web Pages with Javascript](dynamic_javascript.md)|
 | [Programming with Javascript](prog_javascript.md)|
 | [Operators and Loops](operators_loops.md)|
+
+## Code 201 Reading Notes
+
+This is a collection of my notes on the daily reading assignments from 
+Code 201
+
+![Book](https://fordhaminstitute.org/sites/default/files/styles/single_main_image/public/2019-01/sp-11-8-18.jpg?itok=8o-i07D1)
+**Below you will find a table of contents with links to all my reading notes.**
+
+|Table of Contents 201        |
+|:---:|
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
