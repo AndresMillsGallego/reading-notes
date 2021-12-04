@@ -34,7 +34,7 @@ Code 201***
 
 |Table of Contents 201        |
 |:---:|
-||
+|[First Reading](class-01.md)|
 ||
 ||
 ||
