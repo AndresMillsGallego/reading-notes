@@ -43,6 +43,4 @@ We will be learning a considerable amount on these 3 topics.  Here is a short su
 As you can see there is already a lot to learn here and we have only just begun.  It is incredible to think how much can be done with just these 3 tools!
 ![NewProgrammer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVhrhBCebek4figoGfA2U9XVOmcTTMrMFeGw&usqp=CAU) 
 
-[^1]: HTML & CSS: Design and Build Websites by Jon Duckett; ISBN 978-1-118-00818-8 
-
-JavaScript & jQuery: Interactive Front-End Web Development by Jon Duckett; ISBN 978-1-118-53164-8
+[^1]: HTML & CSS: Design and Build Websites by Jon Duckett; ISBN 978-1-118-00818-8 JavaScript & jQuery: Interactive Front-End Web Development by Jon Duckett; ISBN 978-1-118-53164-8
