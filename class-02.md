@@ -20,7 +20,7 @@ Below I will highlight some of the things we learned.
   5. CSS code is made up of:
     
     1. Selectors:  These specify the element that you are selecting to style
-    2. Declarations: These tell HTML what you want to do with the elements that are selected.  
+    2. Declarations: These tell HTML what you want to do with the elements.  
 
 ### Javascript
   1. A script is like a recipe for the computer.  Much like with a recipe, you have to pay special attention to not only _what_ you want the computer to do, but _how_ and _when_ you want these steps to happen. 
@@ -30,6 +30,7 @@ Below I will highlight some of the things we learned.
   5. Comparison operators are what you use to compare two operands. 
 
     - `===, !==, ==, !=, <, >, <=, =>` are examples of comparison operators
+
   6. Logical operators (using booleans) allow one to compare multiple sets of comparison operators.  
   7.  I think that the `if...else` statements are some of the most useful in all of Javascript! So much can be done with them.  
 
