@@ -36,7 +36,7 @@ Code 201***
 |:---:|
 |[First Reading](class-01.md)|
 |[Second Reading](class-02.md)|
-||
+|[Third Reading](class-03.md)|
 ||
 ||
 ||
