@@ -1,7 +1,8 @@
 # Images, Text and Color!!
 
 The fun stuff!  These two things are some of the first things that stand out on a website.  
-There was great stuff in this week's readings here[^1] and here[^2].
+There was great stuff in this week's readings here[^1] 
+and here[^bignote].
 
 ## Chapter 5
 
@@ -53,4 +54,4 @@ Click [HERE](README.md) to go back to the home page.
 
 [^1]: HTML & CSS: Design and Build Websites by Jon Duckett; ISBN 978-1-118-00818-8
 
-[^2] [Which Image File?](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
+[^bignote] [Which Image File?](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
