@@ -66,7 +66,3 @@ The author's point of view was that either way the problem domain takes us away 
 Click [HERE](README.md) to go back to the home page.
 
 [^1]: JavaScript & jQuery: Interactive Front-End Web Development by Jon Duckett; ISBN 978-1-118-53164-8
-
-[Understanding the Problem Domain](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
-
-[Primitive Values and Object References](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
