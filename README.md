@@ -40,7 +40,7 @@ Code 201***
 |[Fourth Reading](class-04.md)|
 |[Fifth Reading](class-05.md) |
 |[Sixth Reading](class-06.md) |
-||
+|[Seventh Reading](class-07.md)|
 ||
 ||
 ||
