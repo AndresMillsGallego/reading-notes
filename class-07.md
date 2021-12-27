@@ -13,7 +13,7 @@ Programmers used to use HTML to control more of the layout, background and spaci
 
 ## Chapter 3: Functions, Methods and Objects [^2]
 
-For this week's reading we finished up chapter 3 which in my opinion, has been the most interesting one to date.  We learned more about objects, how to construct them (literal and constructor) and how to add, remove and replace the data held within.  We learned that you can make an empty object with paramaters so these "empty" variables can be filled later.
+For this week's reading we finished up chapter 3 which in my opinion, has been the most interesting one to date.  We learned more about objects, how to construct them (literal and constructor) and how to add, remove and replace the data held within.  We learned that you can make an empty object with parameters so these "empty" variables can be filled later.
 
 > "Something tells me our next lab might have something to do with this?"
 
@@ -44,10 +44,10 @@ The article goes into detail on why one would want to make a domain model, as we
 - If the point is to have many instances then its best to build objects with the same behaviors and attributes.  
 - Make the methods short, simple and very good at the one thing you design the for.  
 - To make new instances, use the `new` keyword
-- Store the inforamation in variables so you can access the data from outisde the object
+- Store the information in variables so you can access the data from outside the object
 - Use the `this` keyword so you can access the object's data from the inside.
 
-Something tells me that we will be learing a __lot__ more about this subject and I cannot wait. 
+Something tells me that we will be learning a __lot__ more about this subject and I cannot wait. 
 
 Click [HERE](README.md) to go back to the home page.
 
