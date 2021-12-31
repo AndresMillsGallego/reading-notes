@@ -41,7 +41,7 @@ Code 201***
 |[Fifth Reading](class-05.md) |
 |[Sixth Reading](class-06.md) |
 |[Seventh Reading](class-07.md)|
-||
+|[Eighth Reading](class-08.md)|
 ||
 ||
 ||
