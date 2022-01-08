@@ -1,4 +1,4 @@
-# HTML Chaper 7 - Forms
+# HTML Chapter 7 - Forms
 
 ![Forms!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRElChImiwHHzLCcat2yOCjTDXGQSmPwYgrNA&usqp=CAU)
 
@@ -26,10 +26,10 @@ CSS is used to style the layout, color and overall design of the 3 elements list
 
 - Markers for lists can have their appearance changed by using the `list-style-type` and `list-style` properties.
 - You can do a lot with tables and table cells as well.  The margins, padding, border-colors, background-colors and headers can all be styled to look good and professional using CSS properties.  
-- Forms are easier to use if everything is symetrical and lines up.  CSS is an excellent tool for achieving this.  
+- Forms are easier to use if everything is symmetrical and lines up.  CSS is an excellent tool for achieving this.  
 - Forms aren't fun, the more interactive and nice looking you make them the higher the chance the user will fill them out!
 
-### JavaScript Chaper 6 - Events
+### JavaScript Chapter 6 - Events
 
 Next up was this chapter from our JS book[^2].  If I am being honest I was a bit tired when I got to this chapter and I skimmed it a bit.  Having said this, after the DOM, this is one of the things I am most interested in learning!  To me it is the next natural step in the ability to make interactive web pages.  You can not only make something happen, or write then run a script...but you can decide _how_ and _when_ it happens!
 
@@ -48,7 +48,7 @@ A few things I picked out while skimming.....
 2. Binding is when you couple the element you want the focus on with the event that you are waiting for.  
     > There are 3 ways to bind an event to an element(well only 2 really, as the HTML Event Handler method is no longer recommended)
     >The two you _could_ use are traditional DOM event handlers, or the more frequently used DOM level 2 event handlers. 
-3. JavaScript!!  Finally a way to link scripts and functions to certain events.  Key strokes, submition forms, clicks, you get the picture. 
+3. JavaScript!!  Finally a way to link scripts and functions to certain events.  Key strokes, submit forms, clicks, you get the picture. 
 4. You can monitor the events on a particular element, as well as all the children of said element!
 
 I have a feeling we will be coming back to this chapter soon.  Even if it isn't assigned in the reading I will most certainly coming back for another read through (probably several if I am being honest).
