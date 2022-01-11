@@ -43,7 +43,7 @@ Code 201***
 |[Seventh Reading](class-07.md)|
 |[Eighth Reading](class-08.md)|
 |[Ninth Reading](class-09.md)|
-||
+|[Tenth Reading](class-10.md)|
 ||
 ||
 ||
