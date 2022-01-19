@@ -44,8 +44,8 @@ Code 201***
 |[Eighth Reading](class-08.md)|
 |[Ninth Reading](class-09.md)|
 |[Tenth Reading](class-10.md)|
-||
-||
+|[Eleventh Reading](class-11.md)|
+|[Twelfth Reading](class-12.md)|
 ||
 ||
 ||
