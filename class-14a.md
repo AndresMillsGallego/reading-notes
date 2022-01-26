@@ -1,6 +1,10 @@
 # CSS Transforms, Transitions, and Animations
 
+![Transform!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn23-gWTtTcPOyLNgMX5Qk1Aq8CafVNn3Valb4NVbGo031-Ac6zqMqofBxREVeloQRRuk&usqp=CAU)
+
 For this reading we focused on CSS and read a variety of articles.  The first article was on the `transform:` property.  I had used this a bit before, but didn't fully understand how it worked.  You can use this property to rotate an object, change the angle to offset it, etc.  It is a good idea to use `-webkit-`, `-moz-` and `-o-` in addition to the property to make sure it is accepted across all browsers.  Honestly, after seeing these demos the first thing that came to mind was that scene in Superman 2 where the villains were trapped in the element floating off into space.....[^1]
+
+![ZOD](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52DE_uNILQlTGz6OR-D8zusJ5yI-y3APBFw&usqp=CAU)
 
 The `transition:` property is similar to the `transform:` in that it targets the element and changes the appearence.  It can be used to softly transition the color, shape, size or even the shape of a particular element.  I have used it to rotate a button element while transitioning the background to a different color.  It is worth noting that not all properties can be transitioned, only those that have a identifiable half way point[^2].  You can set the timing, duration and delay for a given transition.
 
