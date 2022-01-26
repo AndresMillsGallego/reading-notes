@@ -17,8 +17,6 @@ As you can see there is a ton that you can do with just CSS by itself, or in add
 
 Click [HERE](README.md) to go back to the home page.
 
-[^1]:
-[Transform](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
+[^1]:[Transform](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
 
-[^2]:
-[Transition](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+[^2]:[Transition](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
