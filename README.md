@@ -3,7 +3,7 @@
 
 >Here you will find my notes, ideas, thoughts and things that I learn while studying at Code Fellows.  This site is meant to be used to learn, teach and for me to both put in to practice the things that I learn, and to help me remember it all at the same time. 😄
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 ***This is a collection of my reading notes during Code 102.***
 
@@ -24,7 +24,7 @@
 | [Programming with Javascript](prog_javascript.md)|
 | [Operators and Loops](operators_loops.md)|
 
-### Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 ***This is a collection of my notes on the daily reading assignments from 
 Code 201***
@@ -49,3 +49,9 @@ Code 201***
 |[Thirteenth Reading](class-13.md)|
 |[Fourteenth Reading part A](class-14a.md)|
 |[Fourteenth Reading part B](class-14b.md)|
+
+## Code 301 - Intermediate Software Development
+
+|Table of Contents 301        |
+|:---:|
+|[First Reading](Read301-01.md)|
