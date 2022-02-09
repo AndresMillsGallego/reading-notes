@@ -54,4 +54,5 @@ Code 201***
 
 |Table of Contents 301        |
 |:---:|
+|[Questions I have](questions.md)|
 |[First Reading](Read301-01.md)|
