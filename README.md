@@ -56,3 +56,5 @@ Code 201***
 |:---:|
 |[Questions I have](questions.md)|
 |[First Reading](Read301-01.md)|
+|[Second Reading](Read301-02.md)|
+|[Third Reading](Read301-03.md)|
