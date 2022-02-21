@@ -60,3 +60,4 @@ Code 201***
 |[Third Reading](Read301-03.md)|
 |[Fourth Reading](Read301-04.md)|
 |[Fifth Reading](Read301-05.md)|
+|[Sixth Reading](Read301-06.md)|
