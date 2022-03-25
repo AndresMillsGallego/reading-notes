@@ -34,3 +34,5 @@ SELECT * FROM <your-table>
 [Download Learn SQL E-Book](https://landing.chartio.com/download-learn-sql)
 
 [SQL Bolt](https://sqlbolt.com/)
+
+Click [HERE](README.md) to go back to the home page.
