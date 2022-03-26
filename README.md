@@ -75,8 +75,8 @@ Code 201***
 
 |Table of Contents 401 |
 |:---:|
-|[Itroduction to SQL](intro-to-SQL.md)|
-||
+|[Introduction to SQL](intro-to-SQL.md)|
+|[Practice in the Terminal](/practice-in-the-terminal.mdpractice)|
 ||
 |[First Reading](Read401-01.md)|
 |[Second Reading](Read401-02.md)|
