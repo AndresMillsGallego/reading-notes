@@ -46,6 +46,35 @@ More about Linux:
 
 _What Are They?_
 
+- They are a set of pages that are there to explain every command available in your system.  This includes:
+   1. What they do 
+   2. How you run them
+   3. What arguments they accept
+  
+You can invoke the manual pages with this command:
+> `man <command to look up>`
+
+Or, if you want to look up a command using a keyword (if you don't remember the exact syntax of a command), then you can type this:
+> `man -k <key word/search term>`
+
+## File Manipulation[^5]
+
+Here is where the fun starts!  
+Now that we have learned about the command line and how to navigate it a bit, what else can we do?  Below are some commands that we can use to make, move and delete files.
+
+- `mkdir` - this command is used to **create** a new directory
+- `rmdir` - this command is used to **delete** a directory
+- `touch` - this command is used to **create** a new file
+- `cp` - this command is used to **copy** a file or directory
+- `mv` - this command is used to **move** a file or directory (also to rename them)
+- `rm` - this command is used to **delete** a file
+
+Note:  There is no "undo" command, so be careful when you are deleting things!
+
+## Cheat Sheet[^6]
+
+This last page in [Ryans Tutorials](https://ryanstutorials.net/linuxtutorial/cheatsheet.php) is especially helpful.  I am happy with the notes I took, and even included some of the key terms/commands.  I am including this link as well, as it is an excellent "cheat sheet" that contains a useful list of all the most important terms and commands on one page.
+
 
 
 Click [HERE](README.md) to go back to the home page.
@@ -57,3 +86,7 @@ Click [HERE](README.md) to go back to the home page.
 [^3]: [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
 [^4]: [Manual Pages](https://ryanstutorials.net/linuxtutorial/manual.php)
+
+[^5]: [File Manipulation](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)
+
+[^6]: [Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
