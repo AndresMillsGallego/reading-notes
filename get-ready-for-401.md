@@ -62,7 +62,18 @@ _How to use it?_
 
 ### What The Heck Is The Event Loop Anyway?[^4]
 
+![Loop](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxLnDv5HQXFwr1MAV5mfVYIJMI4oiUiyd4oQ&usqp=CAU)
+
+The event loop, is the key to JavaScript's asynchronous programming.  JS operates on a single thread, but using the event loop makes it seem like it is running on mulitple threads.  Using the `call stack`, the `event queue` and the event loop can keep the bowser from getting stuck or blocked
+
 ### The Super Mario Effect[^5]
+
+![Super Mario](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgHb2WorxzsaBG07VUpwhuRDGU191Foi4pgXjsblSlWavfjaQa3wg9Hr-8CE3N9E4Qc1Y&usqp=CAU)
+
+_What is the Super Mario Effect?_
+
+As the speaker put it, it is the gamification of life!  Make the focus of a challenge the potential success as opposed to the inevitable failures.  It is not just about the will to grind through the failure, knowing that the end will be worth it.  That can be an effective mindset at times, but the Super Mario Effect completely removes the focus from the failure, and places it on the goal instead.  The failures still happen of course, but they are meant to be learned from in the glorious path to victory!
+
 
 Click [HERE](README.md) to go back to the home page.
 
