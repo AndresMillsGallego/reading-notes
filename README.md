@@ -77,12 +77,13 @@ Code 201***
 |:---:|
 |[Introduction to SQL](intro-to-SQL.md)|
 |[Practice in the Terminal](practice-in-the-terminal.md)|
-||
+|[Getting Ready For 401](get-ready-for-401.md)|
 |[First Reading](Read401-01.md)|
 |[Second Reading](Read401-02.md)|
 |[Third Reading](Read401-03.md)|
 |[Fourth Reading](Read401-04.md)|
-|[Fifth Reading](Read401-05.md)|
+|[Linked-Lists (Class-05)](linked-lists.md)|
+|[Sixth Reading](Read401-06.md)|
 ||
 ||
 ||
