@@ -94,4 +94,5 @@ Code 201***
 |[Fourteenth Reading](Read401-17.md)|
 |[Fifteenth Reading](Read401-18.md)|
 |[Sixteenth Reading](Read401-19.md)|
-||
+|[Seventeenth Reading](Read401-26.md)|
+|[Eighteenth Reading](Read401-27.md)|
