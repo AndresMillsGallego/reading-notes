@@ -104,3 +104,4 @@ Code 201***
 |[Twenty Fourth Reading](Read401-34.md)|
 |[Twenty Fifth Reading](Read401-36.md)|
 |[Twenty Sixth Reading](Read401-37.md)|
+|[Twenty Seventh Reading](Read401-38.md)|
