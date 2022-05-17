@@ -107,3 +107,5 @@ Code 201***
 |[Twenty Seventh Reading](Read401-38.md)|
 |[Twenty Eighth Reading](Read401-39.md)|
 |[Twenty Ninth Reading](Read401-41.md)|
+|[Ethics in Tech](Ethics.md)|
+|[Open Source](Open-Source.md)|
